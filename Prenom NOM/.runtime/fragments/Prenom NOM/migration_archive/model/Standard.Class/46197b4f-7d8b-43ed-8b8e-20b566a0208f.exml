@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Class2" version="3">
+  <DEPS>
+    <ID name="Class2" mc="Class" uid="46197b4f-7d8b-43ed-8b8e-20b566a0208f"/>
+    <EXTID name="Class" mc="Class" uid="ebbb7792-2847-4251-98ac-c3596eb92feb"/>
+  </DEPS>
+  <OBJECT>
+    <ID name="Class2" mc="Class" uid="46197b4f-7d8b-43ed-8b8e-20b566a0208f"/>
+    <PID name="Analyse de l'organisation" mc="Package" uid="f01ce30c-a5e2-42c7-a923-4a02cb719fc0"/>
+    <ATTRIBUTES>
+      <ATT name="IsActive">false</ATT>
+      <ATT name="IsMain">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Class2]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Parent">
+        <OBJECT>
+          <ID name="Generalization" mc="Generalization" uid="27aeb9cb-4b85-4e01-800e-e5ffa97dae5e"/>
+          <PID name="Class2" mc="Class" uid="46197b4f-7d8b-43ed-8b8e-20b566a0208f"/>
+          <ATTRIBUTES>
+            <ATT name="Discriminator"><![CDATA[secteur]]></ATT>
+            <ATT name="Name"><![CDATA[Generalization]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="SuperType">
+              <ID name="Class" mc="Class" uid="ebbb7792-2847-4251-98ac-c3596eb92feb"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

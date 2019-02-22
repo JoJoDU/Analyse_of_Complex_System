@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Produits de l'organisation" version="4">
+  <OBJECT>
+    <ID name="Produits de l'organisation" mc="Standard.ClassDiagram" uid="bba625b0-96d3-46a1-84ef-3bd9b4c5a933"/>
+    <PID name="Analyse de l'organisation" mc="Standard.Package" uid="f01ce30c-a5e2-42c7-a923-4a02cb719fc0"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">141</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[Produits de l'organisation]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="Class3" mc="Standard.Class" uid="21dc944e-1f11-4466-bbbf-c57d936955f3"/>
+        <ID name="Class4" mc="Standard.Class" uid="614e129c-6fd9-43fc-8ffe-ce0e27e4cca7"/>
+        <REFOBJ>
+          <ID name="class5" mc="Standard.AssociationEnd" uid="7e21ca31-fc1b-4f47-bdf7-38d242f39398"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Generalization" mc="Standard.Generalization" uid="5bed1a68-da05-46d7-b07b-3f8ad0eb5a29"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="e76324ce-4b49-47c1-a369-fe23fc9c58c8"/>
+        </REFOBJ>
+        <ID name="Class5" mc="Standard.Class" uid="6eff865d-efc4-48af-9b7a-efecca359477"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

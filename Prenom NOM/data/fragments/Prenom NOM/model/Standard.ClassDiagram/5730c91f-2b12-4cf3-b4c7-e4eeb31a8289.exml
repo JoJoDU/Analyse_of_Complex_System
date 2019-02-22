@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Clients de l'organisation" version="4">
+  <OBJECT>
+    <ID name="Clients de l'organisation" mc="Standard.ClassDiagram" uid="5730c91f-2b12-4cf3-b4c7-e4eeb31a8289"/>
+    <PID name="Analyse de l'organisation" mc="Standard.Package" uid="f01ce30c-a5e2-42c7-a923-4a02cb719fc0"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">154</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[Clients de l'organisation]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="Class" mc="Standard.Class" uid="ebbb7792-2847-4251-98ac-c3596eb92feb"/>
+        <ID name="Class2" mc="Standard.Class" uid="46197b4f-7d8b-43ed-8b8e-20b566a0208f"/>
+        <ID name="Class1" mc="Standard.Class" uid="22665116-6e82-42e7-8bec-85e26c4ecbf4"/>
+        <REFOBJ>
+          <ID name="Generalization" mc="Standard.Generalization" uid="27aeb9cb-4b85-4e01-800e-e5ffa97dae5e"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Generalization" mc="Standard.Generalization" uid="bdd36073-a3e9-47fe-8301-6404f62414c8"/>
+        </REFOBJ>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Prenom NOM" version="4">
+  <OBJECT>
+    <ID name="Prenom NOM" mc="Analyst.AnalystProject" uid="88bc2e1b-0bb9-4d47-b374-e1615d379f63"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Prenom NOM]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

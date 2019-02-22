@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Clients de l'organisation" version="4">
+  <OBJECT>
+    <ID name="Clients de l'organisation" mc="Standard.ClassDiagram" uid="5730c91f-2b12-4cf3-b4c7-e4eeb31a8289"/>
+    <PID name="Analyse de l'organisation" mc="Standard.Package" uid="f01ce30c-a5e2-42c7-a923-4a02cb719fc0"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">137</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[Clients de l'organisation]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="Class" mc="Standard.Class" uid="ebbb7792-2847-4251-98ac-c3596eb92feb"/>
+        <ID name="Class2" mc="Standard.Class" uid="46197b4f-7d8b-43ed-8b8e-20b566a0208f"/>
+        <ID name="Class1" mc="Standard.Class" uid="22665116-6e82-42e7-8bec-85e26c4ecbf4"/>
+        <REFOBJ>
+          <ID name="Generalization" mc="Standard.Generalization" uid="27aeb9cb-4b85-4e01-800e-e5ffa97dae5e"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Generalization" mc="Standard.Generalization" uid="bdd36073-a3e9-47fe-8301-6404f62414c8"/>
+        </REFOBJ>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

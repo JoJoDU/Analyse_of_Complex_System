@@ -1,0 +1,323 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Activité de l'organisation" version="3">
+  <DEPS>
+    <ID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+    <COMPID name="Flux de l'organisation" mc="ActivityDiagram" uid="69b3995e-7034-4e72-82e3-950a44e3eed0"/>
+    <EXTID name="Class4" mc="Class" uid="614e129c-6fd9-43fc-8ffe-ce0e27e4cca7"/>
+  </DEPS>
+  <OBJECT>
+    <ID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+    <PID name="Analyse de l'organisation" mc="Package" uid="f01ce30c-a5e2-42c7-a923-4a02cb719fc0"/>
+    <ATTRIBUTES>
+      <ATT name="IsSingleExecution">false</ATT>
+      <ATT name="IsReadOnly">false</ATT>
+      <ATT name="IsReentrant">false</ATT>
+      <ATT name="Name"><![CDATA[Activité de l'organisation]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedGroup">
+        <OBJECT>
+          <ID name="acteur1" mc="ActivityPartition" uid="bc3a52a7-c107-448e-9347-4ef219bc79a3"/>
+          <PID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+          <ATTRIBUTES>
+            <ATT name="IsDimension">false</ATT>
+            <ATT name="IsExternal">false</ATT>
+            <ATT name="Name"><![CDATA[acteur1]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <COMP relation="ContainedNode">
+              <OBJECT>
+                <ID name="Action" mc="OpaqueAction" uid="7db9cf27-d1d6-4ca1-b89a-73ae1288510d"/>
+                <PID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+                <ATTRIBUTES>
+                  <ATT name="Body"></ATT>
+                  <ATT name="IsMultipleInstance">false</ATT>
+                  <ATT name="IsCompensation">false</ATT>
+                  <ATT name="Name"><![CDATA[Action]]></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES>
+                  <COMP relation="Outgoing">
+                    <OBJECT>
+                      <ID name="ObjectFlow" mc="ObjectFlow" uid="d832b020-75af-499c-af51-0ec8b3eb1bf5"/>
+                      <PID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+                      <ATTRIBUTES>
+                        <ATT name="TransformationBehavior"></ATT>
+                        <ATT name="SelectionBehavior"></ATT>
+                        <ATT name="IsMultiCast">false</ATT>
+                        <ATT name="IsMultiReceive">false</ATT>
+                        <ATT name="Effect">ReadFlow</ATT>
+                        <ATT name="Guard"></ATT>
+                        <ATT name="Weight"><![CDATA[1]]></ATT>
+                        <ATT name="Name"><![CDATA[ObjectFlow]]></ATT>
+                        <ATT name="status">1970354901745664</ATT>
+                      </ATTRIBUTES>
+                      <DEPENDENCIES>
+                        <LINK relation="Target">
+                          <REFOBJ>
+                            <ID name="" mc="InstanceNode" uid="f770de37-7fa5-40e2-b818-ecdb8f08044b"/>
+                            <PID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+                          </REFOBJ>
+                        </LINK>
+                      </DEPENDENCIES>
+                    </OBJECT>
+                  </COMP>
+                </DEPENDENCIES>
+              </OBJECT>
+            </COMP>
+          </DEPENDENCIES>
+        </OBJECT>
+        <OBJECT>
+          <ID name="acteur2" mc="ActivityPartition" uid="b38af6e7-9cad-495d-9dae-4655371d89c2"/>
+          <PID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+          <ATTRIBUTES>
+            <ATT name="IsDimension">false</ATT>
+            <ATT name="IsExternal">false</ATT>
+            <ATT name="Name"><![CDATA[acteur2]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <COMP relation="ContainedNode">
+              <OBJECT>
+                <ID name="Action" mc="OpaqueAction" uid="360a3101-ad7c-4c61-bd5f-8644ee62261e"/>
+                <PID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+                <ATTRIBUTES>
+                  <ATT name="Body"></ATT>
+                  <ATT name="IsMultipleInstance">false</ATT>
+                  <ATT name="IsCompensation">false</ATT>
+                  <ATT name="Name"><![CDATA[Action]]></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES>
+                  <COMP relation="Outgoing">
+                    <OBJECT>
+                      <ID name="ObjectFlow" mc="ObjectFlow" uid="4db3da2f-91b2-4304-b57e-c051ac407370"/>
+                      <PID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+                      <ATTRIBUTES>
+                        <ATT name="TransformationBehavior"></ATT>
+                        <ATT name="SelectionBehavior"></ATT>
+                        <ATT name="IsMultiCast">false</ATT>
+                        <ATT name="IsMultiReceive">false</ATT>
+                        <ATT name="Effect">ReadFlow</ATT>
+                        <ATT name="Guard"></ATT>
+                        <ATT name="Weight"><![CDATA[1]]></ATT>
+                        <ATT name="Name"><![CDATA[ObjectFlow]]></ATT>
+                        <ATT name="status">1970354901745664</ATT>
+                      </ATTRIBUTES>
+                      <DEPENDENCIES>
+                        <LINK relation="Target">
+                          <REFOBJ>
+                            <ID name="" mc="InstanceNode" uid="dc847eee-b2bd-43d8-b277-ef6e37549996"/>
+                            <PID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+                          </REFOBJ>
+                        </LINK>
+                      </DEPENDENCIES>
+                    </OBJECT>
+                  </COMP>
+                </DEPENDENCIES>
+              </OBJECT>
+              <OBJECT>
+                <ID name="" mc="InstanceNode" uid="f770de37-7fa5-40e2-b818-ecdb8f08044b"/>
+                <PID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+                <ATTRIBUTES>
+                  <ATT name="IsControlType">false</ATT>
+                  <ATT name="Ordering">FIFO</ATT>
+                  <ATT name="SelectionBehavior"></ATT>
+                  <ATT name="UpperBound"><![CDATA[1]]></ATT>
+                  <ATT name="Name"></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES>
+                  <LINK relation="Represented">
+                    <REFOBJ>
+                      <ID name="" mc="BindableInstance" uid="459d8999-f9fe-4a38-8db0-7fc19fd39db4"/>
+                      <PID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+                    </REFOBJ>
+                  </LINK>
+                  <COMP relation="Outgoing">
+                    <OBJECT>
+                      <ID name="ObjectFlow" mc="ObjectFlow" uid="0331f315-807c-4c36-97b8-dbb9a2564040"/>
+                      <PID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+                      <ATTRIBUTES>
+                        <ATT name="TransformationBehavior"></ATT>
+                        <ATT name="SelectionBehavior"></ATT>
+                        <ATT name="IsMultiCast">false</ATT>
+                        <ATT name="IsMultiReceive">false</ATT>
+                        <ATT name="Effect">ReadFlow</ATT>
+                        <ATT name="Guard"></ATT>
+                        <ATT name="Weight"><![CDATA[1]]></ATT>
+                        <ATT name="Name"><![CDATA[ObjectFlow]]></ATT>
+                        <ATT name="status">1970354901745664</ATT>
+                      </ATTRIBUTES>
+                      <DEPENDENCIES>
+                        <LINK relation="Target">
+                          <REFOBJ>
+                            <ID name="Action" mc="OpaqueAction" uid="360a3101-ad7c-4c61-bd5f-8644ee62261e"/>
+                            <PID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+                          </REFOBJ>
+                        </LINK>
+                      </DEPENDENCIES>
+                    </OBJECT>
+                  </COMP>
+                </DEPENDENCIES>
+              </OBJECT>
+            </COMP>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <COMP relation="OwnedNode">
+        <OBJECT>
+          <ID name="" mc="InstanceNode" uid="dc847eee-b2bd-43d8-b277-ef6e37549996"/>
+          <PID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+          <ATTRIBUTES>
+            <ATT name="IsControlType">false</ATT>
+            <ATT name="Ordering">FIFO</ATT>
+            <ATT name="SelectionBehavior"></ATT>
+            <ATT name="UpperBound"><![CDATA[1]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Type">
+              <ID name="Class4" mc="Class" uid="614e129c-6fd9-43fc-8ffe-ce0e27e4cca7"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+        <OBJECT>
+          <ID name="" mc="InstanceNode" uid="a0cd12a7-333f-4cd4-befa-d326b8ce42bf"/>
+          <PID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+          <ATTRIBUTES>
+            <ATT name="IsControlType">false</ATT>
+            <ATT name="Ordering">FIFO</ATT>
+            <ATT name="SelectionBehavior"></ATT>
+            <ATT name="UpperBound"><![CDATA[1]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Represented">
+              <REFOBJ>
+                <ID name="" mc="BindableInstance" uid="58798e35-2f49-42f6-8adf-bee833c9dd97"/>
+                <PID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+              </REFOBJ>
+            </LINK>
+            <COMP relation="Outgoing">
+              <OBJECT>
+                <ID name="ObjectFlow" mc="ObjectFlow" uid="0488baef-0889-41cc-897b-8038fb819708"/>
+                <PID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+                <ATTRIBUTES>
+                  <ATT name="TransformationBehavior"></ATT>
+                  <ATT name="SelectionBehavior"></ATT>
+                  <ATT name="IsMultiCast">false</ATT>
+                  <ATT name="IsMultiReceive">false</ATT>
+                  <ATT name="Effect">ReadFlow</ATT>
+                  <ATT name="Guard"></ATT>
+                  <ATT name="Weight"><![CDATA[1]]></ATT>
+                  <ATT name="Name"><![CDATA[ObjectFlow]]></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES>
+                  <LINK relation="Target">
+                    <REFOBJ>
+                      <ID name="Action" mc="OpaqueAction" uid="7db9cf27-d1d6-4ca1-b89a-73ae1288510d"/>
+                      <PID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+                    </REFOBJ>
+                  </LINK>
+                </DEPENDENCIES>
+              </OBJECT>
+            </COMP>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <COMP relation="OwnedCollaboration">
+        <OBJECT>
+          <ID name="locals" mc="Collaboration" uid="368447dd-56ae-4394-9161-45f0e5b14578"/>
+          <PID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+          <ATTRIBUTES>
+            <ATT name="IsConcurrent">false</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="IsLeaf">false</ATT>
+            <ATT name="IsRoot">false</ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="Name"><![CDATA[locals]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <COMP relation="Declared">
+              <OBJECT>
+                <ID name="" mc="BindableInstance" uid="34945504-f257-4794-aff3-165f8db3f14c"/>
+                <PID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+                <ATTRIBUTES>
+                  <ATT name="IsConstant">false</ATT>
+                  <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
+                  <ATT name="MultiplicityMax"><![CDATA[1]]></ATT>
+                  <ATT name="Value"></ATT>
+                  <ATT name="Name"></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES></DEPENDENCIES>
+              </OBJECT>
+              <OBJECT>
+                <ID name="" mc="BindableInstance" uid="58798e35-2f49-42f6-8adf-bee833c9dd97"/>
+                <PID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+                <ATTRIBUTES>
+                  <ATT name="IsConstant">false</ATT>
+                  <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
+                  <ATT name="MultiplicityMax"><![CDATA[1]]></ATT>
+                  <ATT name="Value"></ATT>
+                  <ATT name="Name"></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES></DEPENDENCIES>
+              </OBJECT>
+              <OBJECT>
+                <ID name="" mc="BindableInstance" uid="f2a0df56-5657-48ba-9518-a6e43fb9a10c"/>
+                <PID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+                <ATTRIBUTES>
+                  <ATT name="IsConstant">false</ATT>
+                  <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
+                  <ATT name="MultiplicityMax"><![CDATA[1]]></ATT>
+                  <ATT name="Value"></ATT>
+                  <ATT name="Name"></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES></DEPENDENCIES>
+              </OBJECT>
+              <OBJECT>
+                <ID name="" mc="BindableInstance" uid="459d8999-f9fe-4a38-8db0-7fc19fd39db4"/>
+                <PID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+                <ATTRIBUTES>
+                  <ATT name="IsConstant">false</ATT>
+                  <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
+                  <ATT name="MultiplicityMax"><![CDATA[1]]></ATT>
+                  <ATT name="Value"></ATT>
+                  <ATT name="Name"></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES></DEPENDENCIES>
+              </OBJECT>
+              <OBJECT>
+                <ID name="" mc="BindableInstance" uid="02273763-51e8-4778-9681-2ebbad518b02"/>
+                <PID name="Activité de l'organisation" mc="Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+                <ATTRIBUTES>
+                  <ATT name="IsConstant">false</ATT>
+                  <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
+                  <ATT name="MultiplicityMax"><![CDATA[1]]></ATT>
+                  <ATT name="Value"></ATT>
+                  <ATT name="Name"></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES></DEPENDENCIES>
+              </OBJECT>
+            </COMP>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Flux de l'organisation" mc="ActivityDiagram" uid="69b3995e-7034-4e72-82e3-950a44e3eed0"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

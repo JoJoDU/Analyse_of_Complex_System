@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Flux de l'organisation" version="4">
+  <OBJECT>
+    <ID name="Flux de l'organisation" mc="Standard.ActivityDiagram" uid="69b3995e-7034-4e72-82e3-950a44e3eed0"/>
+    <PID name="Activité de l'organisation" mc="Standard.Activity" uid="8e4208e8-c188-4ed6-a543-8a18945ff814"/>
+    <ATTRIBUTES>
+      <ATT name="IsVertical">false</ATT>
+      <ATT name="UiDataVersion">193</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[Flux de l'organisation]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <REFOBJ>
+          <ID name="ObjectFlow" mc="Standard.ObjectFlow" uid="0488baef-0889-41cc-897b-8038fb819708"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ObjectFlow" mc="Standard.ObjectFlow" uid="d832b020-75af-499c-af51-0ec8b3eb1bf5"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.InstanceNode" uid="dc847eee-b2bd-43d8-b277-ef6e37549996"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="acteur2" mc="Standard.ActivityPartition" uid="b38af6e7-9cad-495d-9dae-4655371d89c2"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.InstanceNode" uid="f770de37-7fa5-40e2-b818-ecdb8f08044b"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ObjectFlow" mc="Standard.ObjectFlow" uid="4db3da2f-91b2-4304-b57e-c051ac407370"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Action" mc="Standard.OpaqueAction" uid="7db9cf27-d1d6-4ca1-b89a-73ae1288510d"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ObjectFlow" mc="Standard.ObjectFlow" uid="0331f315-807c-4c36-97b8-dbb9a2564040"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="acteur1" mc="Standard.ActivityPartition" uid="bc3a52a7-c107-448e-9347-4ef219bc79a3"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Action" mc="Standard.OpaqueAction" uid="360a3101-ad7c-4c61-bd5f-8644ee62261e"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.InstanceNode" uid="a0cd12a7-333f-4cd4-befa-d326b8ce42bf"/>
+        </REFOBJ>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

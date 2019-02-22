@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Produits de l'organisation" version="4">
+  <OBJECT>
+    <ID name="Produits de l'organisation" mc="Standard.ClassDiagram" uid="bba625b0-96d3-46a1-84ef-3bd9b4c5a933"/>
+    <PID name="Analyse de l'organisation" mc="Standard.Package" uid="f01ce30c-a5e2-42c7-a923-4a02cb719fc0"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">161</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[Produits de l'organisation]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="Class3" mc="Standard.Class" uid="21dc944e-1f11-4466-bbbf-c57d936955f3"/>
+        <ID name="Class4" mc="Standard.Class" uid="614e129c-6fd9-43fc-8ffe-ce0e27e4cca7"/>
+        <REFOBJ>
+          <ID name="class5" mc="Standard.AssociationEnd" uid="7e21ca31-fc1b-4f47-bdf7-38d242f39398"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Generalization" mc="Standard.Generalization" uid="5bed1a68-da05-46d7-b07b-3f8ad0eb5a29"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="e76324ce-4b49-47c1-a369-fe23fc9c58c8"/>
+        </REFOBJ>
+        <ID name="Class5" mc="Standard.Class" uid="6eff865d-efc4-48af-9b7a-efecca359477"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

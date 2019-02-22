@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Parties clefs de l'organisation" version="4">
+  <OBJECT>
+    <ID name="Parties clefs de l'organisation" mc="Standard.ObjectDiagram" uid="c70fecbf-4ef5-4c9d-8a9e-3d0ee39a058c"/>
+    <PID name="Analyse de l'organisation" mc="Standard.Package" uid="f01ce30c-a5e2-42c7-a923-4a02cb719fc0"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">216</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[Parties clefs de l'organisation]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <REFOBJ>
+          <ID name="part" mc="Standard.LinkEnd" uid="a674d995-d786-4062-a39a-d4db22fa843f"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.LinkEnd" uid="a63e0190-072c-4f45-af8c-9eb9e3a0f172"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="centre opérationnel" mc="Standard.Instance" uid="d8abc3f6-3c49-4a03-856c-ed7f9866ce38"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="part" mc="Standard.LinkEnd" uid="0c5712ed-232c-4ab9-9d88-26b48d246da0"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="part" mc="Standard.LinkEnd" uid="6e4cc53d-ac43-4850-8fef-cb25f9bb99bd"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Instance" mc="Standard.Instance" uid="80a0f37d-9aa4-482d-9225-3b75e678154d"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="technostructure" mc="Standard.Instance" uid="09ab107c-26d4-498e-9abe-eceeb1804521"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.LinkEnd" uid="d89c5475-1e3d-4d1d-b3ac-7511c0e270f5"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.LinkEnd" uid="7938b70c-d540-474d-83e1-18d0b7f78ae2"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.LinkEnd" uid="7c0491bd-6f55-40ec-96a0-e17dd843b14c"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.LinkEnd" uid="91a2b947-66ff-4c1c-9548-a9a181cc5af0"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ligne hiérarchique" mc="Standard.Instance" uid="a44e39ae-5bc7-4df5-8152-faa92147c9d7"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="sommet stratégique" mc="Standard.Instance" uid="885ed128-6d67-4303-a950-fb4e83f877ee"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="organisation" mc="Standard.Instance" uid="10ddc53c-042b-49c8-93a0-b2391dcc8b05"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.LinkEnd" uid="a84db03f-55fa-4bd3-b5af-750ed8a30a8e"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="part" mc="Standard.LinkEnd" uid="01102b19-7f23-40a9-a117-7dfcd15c4c44"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="part" mc="Standard.LinkEnd" uid="df1c859b-3548-44fb-b2bc-a6cc3be69b8c"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="support logistique" mc="Standard.Instance" uid="e3e5113b-e42d-455e-9e35-834f63d9bddf"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="part" mc="Standard.LinkEnd" uid="2c3937e5-46b7-4767-a84a-e778f907eea2"/>
+        </REFOBJ>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

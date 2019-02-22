@@ -1,0 +1,6 @@
+#Wed Dec 06 10:34:45 CET 2017
+org.modelio.diagram.editor.OpenedDiagrams4='T\u00E2ches de l'interview\u00E9' {fc0d6b15-cc52-44d2-be12-9334b5a5d02b} Standard.ActivityDiagram
+org.modelio.diagram.editor.OpenedDiagrams3='Produits de l'organisation' {bba625b0-96d3-46a1-84ef-3bd9b4c5a933} Standard.ClassDiagram
+org.modelio.diagram.editor.OpenedDiagrams2='Parties clefs de l'organisation' {c70fecbf-4ef5-4c9d-8a9e-3d0ee39a058c} Standard.ObjectDiagram
+org.modelio.diagram.editor.OpenedDiagrams1='Clients de l'organisation' {5730c91f-2b12-4cf3-b4c7-e4eeb31a8289} Standard.ClassDiagram
+org.modelio.diagram.editor.OpenedDiagrams0='Flux de l'organisation' {69b3995e-7034-4e72-82e3-950a44e3eed0} Standard.ActivityDiagram
